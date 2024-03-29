@@ -1,0 +1,1 @@
+Basically, it's a dynamic array that expands its capacity by 2 if there are no spaces available to add an element
